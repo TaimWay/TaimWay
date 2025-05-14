@@ -1,13 +1,17 @@
 
-<p align="center">
+<div align="center">
   <h1 height="200px" align="center">Hi!</h1> 
-  <p align="center">Welcomeeeeeee ✨ I am doing some interesting things 👨‍💻</p> </p> 
+  <p align="center">Welcomeeeeeee ✨ I am doing some interesting things 👨‍💻</p>
+</div>
+
  ![image](https://github.com/user-attachments/assets/85601bbe-dce8-4d80-a1c4-cbc964910f5b)
+ 
 <!-- 
  https://shields.io/
  1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
  2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
+
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
