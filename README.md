@@ -4,8 +4,12 @@
   <p align="center">Welcomeeeeeee ✨ I am doing some interesting things 👨‍💻</p>
 </div>
 
- ![image](https://github.com/user-attachments/assets/85601bbe-dce8-4d80-a1c4-cbc964910f5b)
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaimWay/TaimWay/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaimWay/TaimWay/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/TaimWay/TaimWay/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!-- 
  https://shields.io/
  1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
@@ -32,11 +36,7 @@
 <div align="center">
   🔨⛏📢📢📣🔔🧨🎈✨🎉🎊
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
+  
 </div>
 
 
