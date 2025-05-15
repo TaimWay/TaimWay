@@ -1,7 +1,6 @@
-
 <div align="center">
   <h1 height="200px" align="center">Hi!</h1> 
-  <p align="center">Welcomeeeeeee ✨ I am doing some interesting things 👨‍💻</p>
+  <p align="center">Welcome ✨ I am doing some interesting things 👨‍💻</p>
 </div>
 
 <picture>
@@ -35,9 +34,6 @@
 </div>
 <div align="center">
   🔨⛏📢📢📣🔔🧨🎈✨🎉🎊
-
-  
 </div>
 
-
-
+![image](https://github.com/user-attachments/assets/85601bbe-dce8-4d80-a1c4-cbc964910f5b)
